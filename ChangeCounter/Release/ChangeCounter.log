@@ -1,0 +1,9 @@
+﻿  ChangeCounter.c
+ChangeCounter.c(84): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+  Generating code
+  1 of 7 functions (14.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ChangeCounter.vcxproj -> C:\Users\TopProductions18\Desktop\Daryl Susilo CS&131 Section A Fall 2016 ChangeCounter\Release\ChangeCounter.exe
+  ChangeCounter.vcxproj -> C:\Users\TopProductions18\Desktop\Daryl Susilo CS&131 Section A Fall 2016 ChangeCounter\Release\ChangeCounter.pdb (Full PDB)

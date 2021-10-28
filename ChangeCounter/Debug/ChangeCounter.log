@@ -1,0 +1,4 @@
+﻿  ChangeCounter.c
+c:\users\topproductions18\desktop\daryl susilo cs&131 section a fall 2016 changecounter\changecounter\changecounter.c(84): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+  ChangeCounter.vcxproj -> C:\Users\TopProductions18\Desktop\Daryl Susilo CS&131 Section A Fall 2016 ChangeCounter\Debug\ChangeCounter.exe
+  ChangeCounter.vcxproj -> C:\Users\TopProductions18\Desktop\Daryl Susilo CS&131 Section A Fall 2016 ChangeCounter\Debug\ChangeCounter.pdb (Partial PDB)
